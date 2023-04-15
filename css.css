@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Girassol'; 
+    background-color: #E4F9F5;
+    color: #40514e;
+    
+    
+
+}
+.bottom-container{
+    margin-top: 50px;
+    background-color: #2980b9;
+}
+    .btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Courier New;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+       
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+
+hr{border: dotted #6d9f9f;
+    border-bottom: none;    
+    width: 4%;
+
+}
+h2{
+    margin-top: 100px;
+}
+.middle-container{
+    margin-top: 75px;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    color: #66bfbf;
+    line-height: 2;
+   
+}
+
+#Photographer{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+    
+}
+h2{
+    color: #66bfbf;
+    text-align: center;
+    
+
+}
+h3{
+    color: #66bfbf;
+    text-align: center;
+    
+}
+
+
+.bottom-cloud{
+    position: absolute;
+   
+}
+
+.upper-cloud{
+    position: absolute;
+    right: 400px;
+    top: 10px;
+   
+    
+}   
+a{
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.copyright{
+    color: #eaf6f6;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: blanchedalmond;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.3;
+    padding-left: 20px;
+}
+.skill-row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.3;
+    padding-right:350px;
+    padding-top: 30px;
+}
+.prva{
+    width: 25%;
+    float: left;
+}
+.druga{
+    width: 50%;
+    float: left;
+    padding-top: 50px;
+    
+}
+
+.paragrafi{
+    text-align: center;
+    padding-left: 200px;
+}
